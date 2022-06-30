@@ -1,6 +1,10 @@
 body {
   font-size: 120%;
   font-family: Arial;
+  background-image: linear-gradient(180deg, #0b8395, #3535e6);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 button, input {
